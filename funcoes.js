@@ -1,20 +1,3 @@
-//açaí
-let acai = {
-    pequeno: {
-        desconto: 10,
-        preco: 13
-    },
-
-    medio: {
-        desconto: 15,
-        preco: 15
-    },
-
-    grande:{
-        desconto: 25,
-        preco: 17.5
-    }
-}
 
 
 
