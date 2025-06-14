@@ -21,3 +21,7 @@ export function PedindoDados(){
         açaí médio: R$15,00
         açaí grande: R$17,50\n\n`)
 }
+
+export function CalculosDosAcais(){
+    
+}
